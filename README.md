@@ -18,18 +18,21 @@ The first part of the project is to analyze the trends of the stock to identify 
 
 2017 and 2018 returns were highly different for the analyzed stocks, the only stocks with positive returns during both years were ENPH and RUN, thus, these seem to be interesting options to invest in. Considering the average of both years, Tier 2 options would be SEDG and DQ, nevertheless, note DQ's volume is kind of low, thus, this may be a not liquid asset to purchase: 
 
-Resources/VBA_Challenge_Comparison.PNG
+![VBA_Challenge_Comparison](Resources/VBA_Challenge_Comparison.PNG)
+
 
 
 ### Program 
 
 After implementing conditional analysis to optimize the flow, the adjusted program reduced ~25% computation time vs the original program. 
 
-Resources/VBA_Challenge_2017.PNG
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
+
 
 This amount is not significant for a program that is executed in 1 second, nevertheless, this may be hours for a larger amount of Data if, for example, we would like to analyze all the stocks in New York Exchange for the last, let's say, 10 years. 
 
-Resources/VBA_Challenge_2018.PNG
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
+
 
 ## Summary
 
