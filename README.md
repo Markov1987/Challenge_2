@@ -38,4 +38,7 @@ This amount is not significant for a program that is executed in 1 second, never
 
 This week's challenge was to optimize a program built to analyze 12 stocks for a 2 years period by implementing some conditional analysis to reduce not useful computation and also by including arrays to substitute independent variables. 
 
-From a computational perspective, results showed a 25% reduction in computation time while from a financial perspective, needing more information to provide an accurate recommendation, we identify ENPH and RUN stocks as consistently showing positive returns. 
+From a computational perspective, results showed a 25% reduction in computation time while from a financial perspective, needing more information to provide an accurate recommendation, we identify ENPH and RUN stocks as consistently showing positive returns.
+
+Note, refactoring/adjusting code as we did here is a useful strategy follow-up to efficiently face problems. In general, we can assume that most of the day o day challenges may be new for us but surely someone else has already worked them out, thus, may be more efficient to look for a solution that we can refactor/adjust to our specific needs. 
+Specifically speaking of VBA, for this exercise we used our own previous code, nevertheless, as part of Microsoft's software, there is a big community using the software that can also serve as a big source of code we can use as a starting point to face, almost, every challenge. 
