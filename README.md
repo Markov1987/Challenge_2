@@ -10,10 +10,22 @@ At a first glance, we created a VBA Program for this analysis, nevertheless, we 
 
 ### Project
 
-The project is to review and adjust the VBA program to reduce processing time as much as possible by implementing a more efficient data analysis process. Our previous program reviews the full basis each time to compute the needed data for each stock, the proposal is to review only the needed rows, this would be implemented through the inclusion of conditional analysis. 
+The first part of the project is to analyze the trends of the stock to identify potential investment recommendations for Steve's parents (this could also be achieved with the previous program). The second part of the project is to review and adjust the VBA program to reduce processing time as much as possible by implementing a more efficient data analysis process. Our previous program reviews the full basis each time to compute the needed data for each stock, the proposal is to review only the needed rows, this would be implemented through the inclusion of conditional analysis. 
 
 ## Results
 
+### Financial
 
+2017 and 2018 returns where highly different for the analyzed stocks 
+
+
+
+### Program 
+
+
+Resources/VBA_Challenge_2017.PNG
+
+
+Resources/VBA_Challenge_2018.PNG
 
 ## Summary
