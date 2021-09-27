@@ -16,7 +16,9 @@ The first part of the project is to analyze the trends of the stock to identify 
 
 ### Financial
 
-2017 and 2018 returns where highly different for the analyzed stocks 
+2017 and 2018 returns where highly different for the analyzed stocks, the only stocks with positive returns during both years
+
+Resources/VBA_Challenge_Comparison.PNG
 
 
 
